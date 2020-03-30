@@ -8,6 +8,7 @@ We will connect the VCC pin to the Arduino board on the VCC input (+5V), the Vou
 ![Potentiometer-Scheme](https://github.com/roboticsuic/ArduinoMatlab/blob/master/Potentiometer-Leo/Schemes/Potentiometer.PNG)
 
 **Objective** --> Learn how to read the analog input on the arduino board.
+
 **Scheme**
 
 ![Scheme](https://github.com/roboticsuic/ArduinoMatlab/blob/master/Potentiometer-Leo/Schemes/SchemeTinkerCad.PNG)
