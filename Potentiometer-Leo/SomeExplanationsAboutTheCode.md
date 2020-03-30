@@ -1,10 +1,8 @@
-**# CrystalBall_Leo**
-
-Create a crystal ball to tell your Future
+**# Potemtiometer_Leo**
 
 **General explanation:**
+In this practice we will learn to read the analog input on the arduino board. To do this we will use a potentiometer as an analog input source.
 
-In this project we will simulate how a "crystal ball" works. The idea would be that people ask a question and then shake the crystal ball and it would give them an answer to that question. Similarly, the idea would be to use the tilt switch as a crystal ball and we would use the LCD (16x2), to show the answer.
+Being the objective to learn how to read the analog input on the arduino board.
 
-LCD: (Liquid Cristal Display) 
-The LCD can be used to display alphanumeric characters. In this case we use a 16 column, 2 row LCD. There are 16 pins in the LCD circuit.
+We will connect the VCC pin to the Arduino board on the VCC input (+5V), the Vout pin to the analog input A2 on the Arduino board and the GND pin to the GND input.
