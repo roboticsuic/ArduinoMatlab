@@ -1,3 +1,5 @@
+#CodeinMatlab
+
 function [] = potentiometer()
 arduino_board = arduino();
 finishup = onCleanup(@() exitprogram(arduino_board));
