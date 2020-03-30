@@ -7,7 +7,7 @@ In this practice we will learn to read the analog input on the arduino board. To
 
 We will connect the VCC pin to the Arduino board on the VCC input (+5V), the Vout pin to the analog input A2 on the Arduino board and the GND pin to the GND input.
 
-![Potentiometer-Scheme](https://github.com/roboticsuic/ArduinoMatlab/blob/master/Potentiometer-Leo/Potentiometer.PNG)
+![Potentiometer-Scheme](https://github.com/roboticsuic/ArduinoMatlab/blob/master/Potentiometer-Leo/Schemes/Potentiometer.PNG)
 
 **Code explanations:**
 
