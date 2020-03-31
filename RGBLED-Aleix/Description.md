@@ -11,3 +11,9 @@ Therefore, to do this, I'm going to use:
 - RGB LED CATHOD: The longer pin is (-), also known as 'Common pin' and the other pins are (+).
   - Depending on the (+) pins used we are going to obtain a color or another.
   
+**ISSUES**:
+- The files 'Live Scheme Yellow' and 'Live Scheme Purple' with the resolution of my camera is not appreciated the color, but if you watch the file 'Command Window' you will see that this colors are well executed.
+
+Hope you liked my homework.
+
+Aleix
