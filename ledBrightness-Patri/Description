@@ -1,0 +1,12 @@
+We try to control LED brightness by controlling voltage on LED.
+MATLAB for Arduino support provides writePWMVoltage() function to set voltage on PWM pins. 
+We can set a voltage value from 0 to 5 for Arduino Uno.
+
+Materials used: 
+- Arduino UNO
+- LED
+- Protoboard
+- Wires
+
+More info: 
+This program will set voltage value on PWM pin on digital pin 3 from 0 to 5 and then set a value from 5 to 0 too.
