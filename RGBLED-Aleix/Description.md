@@ -1,7 +1,7 @@
 **In this project** I'm going to do a demo of an Analog Output (PWM): RGB LED
 
 Therefore, to do this, I'm going to use:
-- Arduino UNO.
+- Arduino UNO R3.
 - Matlab code.
 - LED RGB.
 - Fritzing. (to design the scheme).
