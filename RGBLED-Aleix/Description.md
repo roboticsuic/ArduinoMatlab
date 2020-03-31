@@ -4,7 +4,7 @@ Therefore, to do this, I'm going to use:
 - Arduino UNO R3.
 - Matlab code.
 - LED RGB.
-- Fritzing. (to design the scheme).
+- Thinkercad. (to design the scheme).
 
 **Tips**:
 - PWM pins are marked in Arduino UNO with '~' in front of the pin number.
